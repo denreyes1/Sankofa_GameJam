@@ -11,9 +11,11 @@ public class BusScaler : MonoBehaviour
         bus.transform.localScale = new Vector3(1f, 1f, 1f);
     }
 
-    private void Update()
+    // Update is called once per frame
+    void Update()
     {
         float scaleValue = slider.value;
         bus.transform.localScale = new Vector3(scaleValue, scaleValue, scaleValue);
+
     }
 }

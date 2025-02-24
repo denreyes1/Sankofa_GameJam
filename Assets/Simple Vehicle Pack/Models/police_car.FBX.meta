@@ -100,3 +100,10 @@ ModelImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97669
+  packageName: Simple Cars Pack
+  packageVersion: 1.1
+  assetPath: Assets/Simple Vehicle Pack/Models/police_car.FBX
+  uploadId: 296029
